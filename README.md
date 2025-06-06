@@ -1,4 +1,4 @@
-Me chamo Luana Pimentel, tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em transição de carreira para a área de TI, com foco em dados. Atualmente, estudo SQL e Python para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos práticos.
+Me chamo Luana Pimentel, tenho 24 anos e estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e estou em transição de carreira para a área de TI, com foco em dados. Atualmente, estudo SQL e Python para aprimorar minhas habilidades e busco oportunidades para aplicar meu conhecimento em projetos práticos.
 
 ---
 
